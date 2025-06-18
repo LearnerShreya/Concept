@@ -11,6 +11,27 @@
 
 ---
 
+### 📝 **Transistors & Binary Data**
+
+* **1 transistor = 1 bit = stores 0 or 1**
+* More transistors = More bits = More data combinations
+
+---
+
+### 🔢 **Examples:**
+
+| Transistors | Bits | Combinations (2ⁿ)  |
+| ----------- | ---- | ------------------ |
+| 1           | 1    | 2 (0, 1)           |
+| 2           | 2    | 4 (00, 01, 10, 11) |
+| 4           | 4    | 16 (0000 to 1111)  |
+| 8           | 8    | 256                |
+
+🧠 **Formula:**
+**n bits → 2ⁿ combinations**
+
+---
+
 | Term         | Meaning                      |
 | ------------ | ---------------------------- |
 | Transistor   | Semiconductor switch         |

@@ -8,3 +8,14 @@
 * In **digital electronics**, each transistor can represent **one binary value (0 or 1)**.
 * Transistors are the **basic building blocks** of computers, used in logic gates, memory, and processors.
 * Modern systems use **billions of transistors** to store and process data in binary form.
+
+---
+
+| Term         | Meaning                      |
+| ------------ | ---------------------------- |
+| Transistor   | Semiconductor switch         |
+| ON State     | Current flows → Binary **1** |
+| OFF State    | No current → Binary **0**    |
+| 1 Transistor | Represents 1 bit (0 or 1)    |
+
+---

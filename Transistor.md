@@ -1,4 +1,4 @@
-### 📝 **Transistor and Binary Value*
+### 📝 **Transistor and Binary Value**
 
 * A **transistor** is a **semiconductor device** that controls the **flow of electric current**.
 * It works like a **switch**, with two states:
@@ -16,7 +16,6 @@
 * **1 transistor = 1 bit = stores 0 or 1**
 * More transistors = More bits = More data combinations
 
----
 
 ### 🔢 **Examples:**
 
@@ -30,8 +29,6 @@
 🧠 **Formula:**
 **n bits → 2ⁿ combinations**
 
----
-
 | Term         | Meaning                      |
 | ------------ | ---------------------------- |
 | Transistor   | Semiconductor switch         |
@@ -39,4 +36,3 @@
 | OFF State    | No current → Binary **0**    |
 | 1 Transistor | Represents 1 bit (0 or 1)    |
 
----

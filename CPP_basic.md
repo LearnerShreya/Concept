@@ -80,10 +80,10 @@ int main() {                // Entry point
 
 ## 💡 Ek Line Mein:
 
-> **C++ ka program ek formal letter jaisa hota hai:**
-> 🔹 *Pehle batate ho kin tools ki zarurat hai,*
-> 🔹 *Phir bolte ho kin logon (namespace std) se baat karni hai,*
-> 🔹 *Phir apni main baat likhte ho (main function),*
-> 🔹 *Aur end mein politely bolte ho — sab sahi hua, return 0!*
+> **C++ ka program ek formal letter jaisa hota hai:**  
+> 🔹 *Pehle batate ho kin tools ki zarurat hai,*  
+> 🔹 *Phir bolte ho kin logon (namespace std) se baat karni hai,*  
+> 🔹 *Phir apni main baat likhte ho (main function),*  
+> 🔹 *Aur end mein politely bolte ho — sab sahi hua, return 0!*  
 
 ---
